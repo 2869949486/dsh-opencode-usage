@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: '@local/dsh-opencode-usage',
+  id: 'dsh-opencode-usage-settings',
   factory(require) {
     const React = require('react');
     const h = React.createElement;
