@@ -1,6 +1,6 @@
 - insert:
     - id: opencode-usage
-      name: '@local/dsh-opencode-usage'
+      name: '@2869949486/dsh-opencode-usage'
       config:
         plan: go
         path: /opencode-usage

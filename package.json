@@ -1,9 +1,8 @@
 {
-  "name": "@local/dsh-opencode-usage",
+  "name": "@2869949486/dsh-opencode-usage",
   "version": "1.0.0",
-  "private": true,
   "type": "module",
-  "description": "Per-model OpenCode Go usage: a JSON data route for the harness and a Settings page that renders it.",
+  "description": "dsh plugin: per-model OpenCode Go usage and remaining allowance in a Settings page.",
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
@@ -29,5 +28,28 @@
         "@deepseek-ai/dsh-client-ui-settings"
       ]
     }
+  },
+  "license": "MIT",
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "opencode",
+    "usage",
+    "billing"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2869949486/dsh-opencode-usage.git"
+  },
+  "homepage": "https://github.com/2869949486/dsh-opencode-usage#readme",
+  "bugs": {
+    "url": "https://github.com/2869949486/dsh-opencode-usage/issues"
+  },
+  "engines": {
+    "dsh": "^0.2.0-rc.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
