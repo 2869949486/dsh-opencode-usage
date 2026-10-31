@@ -1,0 +1,9 @@
+- insert:
+    - id: opencode-usage
+      name: '@local/dsh-opencode-usage'
+      config:
+        plan: go
+        path: /opencode-usage
+        refreshSeconds: 60
+        apiKeyRef: OPENCODE_API_KEY
+        usageUrl: https://opencode.ai/inference/go/v1/usage

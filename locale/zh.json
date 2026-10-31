@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OpenCode Go 用量看板",
+    "description": "按模型统计 OpenCode Go 的 5 小时 / 本周 / 本月用量与剩余额度，并在 Web 端口提供自动刷新的页面。"
+  }
+}
