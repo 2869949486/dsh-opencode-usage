@@ -1,5 +1,5 @@
 {
-  "name": "@2869949486/dsh-opencode-usage",
+  "name": "@doushabao1999/dsh-opencode-usage",
   "version": "1.0.0",
   "type": "module",
   "description": "dsh plugin: per-model OpenCode Go usage and remaining allowance in a Settings page.",
